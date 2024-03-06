@@ -1,0 +1,10 @@
+# CODEOWNERS File
+
+# This file is used to specify who the "owner" is for different parts of the repository.
+# The owners will be automatically requested for review when a pull request changes any owned files.
+
+*  @mrayanasim09 @drik-493
+
+
+# Documentation related changes
+/docs/ @mrayanasim09 @drik-493
